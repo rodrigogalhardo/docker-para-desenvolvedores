@@ -2,7 +2,6 @@
 
 Esse livro apresenta a utilização do Docker focando nas melhores práticas de uso.
 
-> Autor: **[Rafael Gomes](https://github.com/gomex)**
 
 ## Sumário
 
